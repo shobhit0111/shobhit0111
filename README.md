@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Bhatnagar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align=”center” width=”400” src=”https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif”/>
+<img src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966" align="center" style="width: 100% , height:200px " />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit0111&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit0111" /> </p>
 
