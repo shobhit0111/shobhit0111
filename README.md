@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Bhatnagar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align=”right” width=”400” https://www.lambdatest.com/resources/images/news24.gif >
+<img align=”right” width=”400” src=”https://www.lambdatest.com/resources/images/news24.gif” >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit0111&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit0111" /> </p>
 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobhit0111&show_icons=true&locale=en" alt="shobhit0111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit0111&" alt="shobhit0111" /></p>}
+
