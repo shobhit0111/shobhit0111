@@ -16,9 +16,11 @@
  
 - Want to know about me **https://shobhit0111.github.io/**
 
--Know about my experience **https://drive.google.com/file/d/1ugZ9O8mxrEMSUW1huhn2RDSks3B9t5Vn/view?usp=sharing**
+- Know about my experience **https://drive.google.com/file/d/1ugZ9O8mxrEMSUW1huhn2RDSks3B9t5Vn/view?usp=sharing**
 
 - ⚡ Fun fact **I think I am funny**
+
+Connect to me **https://www.linkedin.com/in/shobhitbhatnagar02/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
