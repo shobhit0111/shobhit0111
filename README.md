@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shobhitbhatnagar@gmail.com**
  
-- Want to know about me **http://shobhit0111.github.io**
+- Want to know about me **https://shobhit0111.github.io**
 
 - ⚡ Fun fact **I think I am funny**
 
