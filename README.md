@@ -20,7 +20,7 @@
 
  Connect to me **https://www.linkedin.com/in/shobhitbhatnagar02/**
 
-<h3 align="left">Connect with me: **https://www.linkedin.com/in/shobhitbhatnagar02/**</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/shobhitbhatnagar02/</h3>
 <p align="left">
 </p>
 
