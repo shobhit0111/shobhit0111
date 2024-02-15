@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Fitness Blender website**
 
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB, SQL, AWS**
+- 🌱 I’m currently learning **React.js, Nodejs, Express, MongoDB**
 
-- 💬 Ask me about **Node Backend Development**
+- 💬 Ask me about **Full Stack Website Development**
 
 - 📫 Want to know about me **[https://shobhit0111.github.io/](https://shobhit0111.github.io/)**
  
