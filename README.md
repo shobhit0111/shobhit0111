@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit Bhatnagar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f" align="center" style="width: 100% , height:"140"/>
+<img src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f" align="center" style= width: "100%" , height:"140"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit0111&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit0111" /> </p>
 
