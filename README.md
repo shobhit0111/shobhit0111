@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhit0111" alt="shobhit0111" /></a> </p>
 
-- 🔭 I’m currently working on **Fitness Blender website**
+- 🔭 I’m currently working on **Food App**
 
 - 🌱 I’m currently learning **React.js, Nodejs, Express, MongoDB**
 
@@ -14,7 +14,7 @@
 
 - 📫 Want to know about me **[https://shobhit0111.github.io/](https://shobhit0111.github.io/)**
  
-- Want to Know about my experience **https://drive.google.com/file/d/1ugZ9O8mxrEMSUW1huhn2RDSks3B9t5Vn/view?usp=sharing**
+- Want to Know about my experience **https://drive.google.com/file/d/1FbCeRusyrgRL0uKm8KgT299pOhLEszZX/view**
 
 - ⚡ Fun fact **I think I am funny**
 
